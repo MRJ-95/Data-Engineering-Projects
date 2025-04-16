@@ -74,17 +74,5 @@ Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 Tools: Jupyter Notebooks
 
 📌 How to Use
-Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/fraud-pricing-projects.git
-Open notebooks using Jupyter or VS Code
-
-Install requirements:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
+Open notebooks using Jupyter or VS Code or Google Colab
