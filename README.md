@@ -1,7 +1,7 @@
-🔐💡 Fraud Detection and Subscription Pricing Optimization
+#🔐💡 Fraud Detection and Subscription Pricing Optimization
 This repository showcases two comprehensive data science projects focused on solving high-impact business problems through machine learning and statistical modeling: a Payment Fraud Detection & Risk Scoring System and an Optimized Subscription Pricing Strategy.
 
-📁 Projects Breakdown
+##📁 Projects Breakdown
 🕵️‍♂️ 1. Payment Fraud Detection & Risk Scoring System
 📌 Objective
 Detect fraudulent transactions in a financial dataset and assign a risk score to each transaction based on the likelihood of fraud.
