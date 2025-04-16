@@ -6,7 +6,7 @@ This repository showcases two comprehensive data science projects focused on sol
 📌 Objective
 Detect fraudulent transactions in a financial dataset and assign a risk score to each transaction based on the likelihood of fraud.
 
-📊 # Dataset
+📊 Dataset
 Size: ~6.3 million transactions
 
 Features: Transaction type, amount, origin and destination balances, fraud indicators
